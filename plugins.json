@@ -4,6 +4,10 @@
     "entry": "./plugins/sample-plugin/plugin.js"
   },
   {
+    "name": "Kugavarathan Plugin",
+    "entry": "./plugins/kugavarathan-plugin/plugin.js"
+  },
+  {
     "name": "Conflict Plugin",
     "entry": "./plugins/conflict-plugin/plugin.js"
   }
